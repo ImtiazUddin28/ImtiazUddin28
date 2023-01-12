@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiazuddin28&label=Profile%20views&color=0e75b6&style=flat" alt="imtiazuddin28" /> </p>
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my best projects are available at [Portfolio](https://imtiazuddinportfolio.netlify.app/)
+- 👨‍💻 To know about my best projects go to : [Portfolio](https://imtiazuddinportfolio.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React JS, Node JS**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Fb-_LJyLctQE2KPAhE__OIyg-dPTXeLt/view](https://drive.google.com/file/d/1Fb-_LJyLctQE2KPAhE__OIyg-dPTXeLt/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Fb-_LJyLctQE2KPAhE__OIyg-dPTXeLt/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
