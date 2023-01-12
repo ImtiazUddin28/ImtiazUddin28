@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **typescript**
 
-- 👨‍💻 All of my projects are available at [https://imtiazuddinportfolio.netlify.app/](https://imtiazuddinportfolio.netlify.app/)
+- 👨‍💻 All of my best projects are available at [Portfolio](https://imtiazuddinportfolio.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React JS, Node JS**
 
